@@ -24,10 +24,10 @@ section#telefone {
     width: 311px;
     position: absolute;
     top: 50%;
-    left: 50%;
+    left: 48%;
     transform: translate(-50%, -50%);
     background: url('../pacote-d013/imagens/frame-iphone.png') no-repeat;
-    margin-right: 6px;
+    
 }
 iframe#tela {
     position: relative;
